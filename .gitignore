@@ -32,3 +32,16 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Java / Maven
+target/
+*.log
+*.class
+*.ipr
+*.ips
+*.swp
+.DS_Store
+.project
+.settings/
+.classpath
+.mvn/wrapper/maven-wrapper.jar
